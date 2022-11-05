@@ -143,7 +143,7 @@ body > div {
 }
 
 /*Hover style added for desktop users*/
-@media (min-width: 1200px) {
+@media (min-width: 576px) {
   .ratings:hover {
     background-color: #7d8696;
     transform: scale(1.05);
